@@ -53,7 +53,7 @@ As a user, I can:
     {
       "id": 2,
       "name": "Mr. Monkey",
-      "image": "https://thumbs.gfycat.com/FatalInnocentAmericanshorthair-max-1mb.gif",
+      "image": "https://tenor.com/view/cute-cat-gif-21406712",
       "votes": 0
     },
     ...
@@ -72,7 +72,7 @@ As a user, I can:
    {
     "id": 1,
     "name": "Mr. Cute",
-    "image": "https://thumbs.gfycat.com/EquatorialIckyCat-max-1mb.gif",
+    "image": "https://tenor.com/view/cute-cat-gif-21406712",
     "votes": 0
    }
    ```
