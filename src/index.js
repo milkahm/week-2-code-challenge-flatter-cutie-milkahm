@@ -54,6 +54,7 @@ document.addEventListener("DOMContentLoaded", () => {
     if (characterForm) {
         characterForm.addEventListener("submit", event => {
             event.preventDefault();
+            const name ="Me"
             const newCharacter = {
                 name: event.target["character-name"].value,
                 image: event.target["image-url"].value,
